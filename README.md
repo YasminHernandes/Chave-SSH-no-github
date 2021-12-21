@@ -12,7 +12,7 @@
 ### Adiciona-la às chaves ssh no github 
 Vá até o caminho onde foi salva a sua chave, abra o arquivo com final .pub e copie o conteúdo.
 
-Para criar uma nova chave ssh, entre no seu perfil, vá até configurações clicando no seu avatar, navege no menu e selecione **SSH e chaves GPG**. Clique em **Nova chave ssh**, adicione um nome de sua preferência e cole o conteúdo que você copiou.
+Para criar uma nova chave ssh, entre no seu perfil, vá até configurações clicando no seu avatar, navegue no menu e selecione **SSH e chaves GPG**. Clique em **Nova chave ssh**, adicione um nome de sua preferência e cole o conteúdo que você copiou.
 
 ## Agora é preciso ativa-la.
 ### Ativando a chave SSH
